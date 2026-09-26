@@ -4,27 +4,79 @@
 
 [www.inthebox.es](https://www.inthebox.es/)
 
-`inthebox.es` is a procedural system exposed through the web. A fixed seed and
-a small set of explicit rules generate a world of territories, objects,
-openings and relationships. The same generation reconstructs the same state,
-so its history can be explored and replayed deterministically.
+InTheBox.es began in 2015 as an independent maker project combining art, reuse and technology through hand-built computers made from reclaimed and unconventional materials.
+
+The project has since evolved into a broader experimental space for creative technology, web design and unconventional digital ideas.
+
+This repository contains the source for the current public experiment: a deterministic generative microworld.
+
+## Current experiment
+
+`inthebox.es` is a procedural system exposed through the web.
+
+A fixed seed and a small set of explicit rules generate a world of territories, objects, openings and relationships.
+
+The same generation reconstructs the same state, allowing its structure and history to be explored and replayed deterministically.
+
+The current public snapshot is:
+
+**Prototype 1 · v0.3.0**
+
+## What it explores
+
+The experiment is concerned with ideas including:
+
+- containment
+- relationships
+- topology
+- lifecycle
+- representation
+- deterministic generation
+- procedural structure
+
+It is not intended as a conventional application or product.
+
+It is an evolving creative-technology experiment within the wider InTheBox.es project.
 
 ## Run locally
 
-```sh
+```bash
 python3 -m http.server 8796 --bind 127.0.0.1
 ```
 
-Then open http://127.0.0.1:8796/.
+Then open:
+
+[http://127.0.0.1:8796/](http://127.0.0.1:8796/)
 
 ## Implementation
 
-Semantic HTML, CSS, vanilla JavaScript modules and SVG. No framework, build
-step, analytics, external API or runtime dependency.
+The current prototype uses:
+
+- semantic HTML
+- CSS
+- vanilla JavaScript modules
+- SVG
+
+There is no framework, build step, analytics, external API or runtime dependency.
+
+## Project
+
+**Live site**  
+[www.inthebox.es](https://www.inthebox.es/)
+
+**Creator**  
+[C. Matt Fletcher](https://www.cmattfletcher.com/)
 
 ## Contact
 
-hello@inthebox.es
+[hello@inthebox.es](mailto:hello@inthebox.es)
 
-Copyright © 2026 Charles Matthew Fletcher. All rights reserved. No software
-licence is granted for reuse.
+## Licensing
+
+Copyright © 2026 Charles Matthew Fletcher.
+
+This repository is published for public inspection of the current InTheBox.es experiment.
+
+No open-source or other software licence is granted for reuse of the source code in this repository.
+
+**All rights reserved unless explicitly stated otherwise.**
