@@ -8,19 +8,15 @@ InTheBox.es began in 2015 as an independent maker project combining art, reuse a
 
 The project has since evolved into a broader experimental space for creative technology, web design and unconventional digital ideas.
 
-This repository contains the source for the current public experiment: a deterministic generative microworld.
+This repository contains the source for Prototype 1: a deterministic generative microworld.
 
-## Current experiment
+## Prototype 1
 
 `inthebox.es` is a procedural system exposed through the web.
 
 A fixed seed and a small set of explicit rules generate a world of territories, objects, openings and relationships.
 
 The same generation reconstructs the same state, allowing its structure and history to be explored and replayed deterministically.
-
-The current public snapshot is:
-
-**Prototype 1 · v0.3.0**
 
 ## What it explores
 
@@ -50,7 +46,7 @@ Then open:
 
 ## Implementation
 
-The current prototype uses:
+Prototype 1 uses:
 
 - semantic HTML
 - CSS
@@ -75,7 +71,7 @@ There is no framework, build step, analytics, external API or runtime dependency
 
 Copyright © 2026 Charles Matthew Fletcher.
 
-This repository is published for public inspection of the current InTheBox.es experiment.
+This repository is published for public inspection of the InTheBox.es experiment represented by this source tree.
 
 No open-source or other software licence is granted for reuse of the source code in this repository.
 
