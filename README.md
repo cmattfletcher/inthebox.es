@@ -65,7 +65,7 @@ There is no framework, build step, analytics, external API or runtime dependency
 [www.inthebox.es](https://www.inthebox.es/)
 
 **Creator**  
-[C. Matt Fletcher](https://www.cmattfletcher.com/)
+[Charles Matthew Fletcher](https://www.charlesmatthewfletcher.com/)
 
 ## Contact
 
